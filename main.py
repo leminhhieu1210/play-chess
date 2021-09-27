@@ -3,7 +3,7 @@ import pygame as p
 import ChessEngine
 import Chess_human
 
-WIDTH = HEIGHT = 512
+WIDTH = HEIGHT = 320 * 2
 DEMENSION = 8  # 8X8
 SQ_SIZE = HEIGHT // DEMENSION
 MAX_FPS = 15
